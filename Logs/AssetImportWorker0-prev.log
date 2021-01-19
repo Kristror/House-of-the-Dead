@@ -1,0 +1,606 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'ru' Physical Memory: 8147 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Programs\Unity\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Загрузки/Учеба/Geek/Unity/House of the Dead
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+2786
+Successfully changed project path to: D:/Загрузки/Учеба/Geek/Unity/House of the Dead
+D:/Загрузки/Учеба/Geek/Unity/House of the Dead
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 51.09 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path D:/Programs/Unity/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Загрузки/Учеба/Geek/Unity/House of the Dead/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   27.21.14.5206
+Initialize mono
+Mono path[0] = 'D:/Programs/Unity/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Programs/Unity/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Programs/Unity/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56412
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Programs/Unity/2020.2.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Programs/Unity/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001638 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 26.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.807 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000614 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.002 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1063 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.3 MB.
+System memory in use after: 59.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1512.
+Total: 2.091000 ms (FindLiveObjects: 0.163400 ms CreateObjectMapping: 0.093900 ms MarkObjects: 1.724100 ms  DeleteObjects: 0.108300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Prefabs/jj_door_4_red.prefab
+  artifactKey: Guid(633cf74b7a917114ab31d983ee913530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Prefabs/jj_door_4_red.prefab using Guid(633cf74b7a917114ab31d983ee913530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92d4a126485b40036b9d1ce0be8afa64') in 0.195000 seconds
+  Import took 0.198478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Prefabs/jj_door_4_white.prefab
+  artifactKey: Guid(b571015d967a73b4cadb57317d7d0547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Prefabs/jj_door_4_white.prefab using Guid(b571015d967a73b4cadb57317d7d0547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49f9ca1663f642270f061da8fd52b9c0') in 0.075690 seconds
+  Import took 0.080434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Prefabs/jj_door_2_white_weathered.prefab
+  artifactKey: Guid(2eb487a1a7a52574b8137bb81207c94b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Prefabs/jj_door_2_white_weathered.prefab using Guid(2eb487a1a7a52574b8137bb81207c94b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7153ec374e05eb1dddeb43d065568dad') in 0.058076 seconds
+  Import took 0.061453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Prefabs/jj_door_3_white.prefab
+  artifactKey: Guid(1bbe2c604601fdb44b9e7eeec90773ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Prefabs/jj_door_3_white.prefab using Guid(1bbe2c604601fdb44b9e7eeec90773ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76f6c7afcd55f7364046a162786209d9') in 0.053839 seconds
+  Import took 0.058045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Prefabs/jj_door_3_white_weathered.prefab
+  artifactKey: Guid(5b3cec0012220604d8aa38cd0517048b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Prefabs/jj_door_3_white_weathered.prefab using Guid(5b3cec0012220604d8aa38cd0517048b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '506cd5a07fdf9d7df97dd1fe2f1a7785') in 0.052714 seconds
+  Import took 0.055854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Prefabs/jj_door_1_white_weathered.prefab
+  artifactKey: Guid(fc9fa88e094285f4e9420f756be3b68d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Prefabs/jj_door_1_white_weathered.prefab using Guid(fc9fa88e094285f4e9420f756be3b68d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22af3cc2a454b41a8a0a6ebdfdebe421') in 0.051584 seconds
+  Import took 0.056002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Prefabs/jj_door_1_white.prefab
+  artifactKey: Guid(3865dab15f85624439f27d11cc132971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Prefabs/jj_door_1_white.prefab using Guid(3865dab15f85624439f27d11cc132971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90c9cc44dc5654bb60a827d05d3f01b7') in 0.051494 seconds
+  Import took 0.054816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Prefabs/jj_door_2_white.prefab
+  artifactKey: Guid(c77c4716527558745bd33873506541ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Prefabs/jj_door_2_white.prefab using Guid(c77c4716527558745bd33873506541ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '439dd9522dd8d81cd007468556df68dc') in 0.051996 seconds
+  Import took 0.055158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Prefabs/jj_door_4_dark.prefab
+  artifactKey: Guid(db9fb8bf112e6b0458147765e27fc54a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Prefabs/jj_door_4_dark.prefab using Guid(db9fb8bf112e6b0458147765e27fc54a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d2514dc716b9d351610698a136bf24a') in 0.053521 seconds
+  Import took 0.057750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Prefabs/jj_door_1_red.prefab
+  artifactKey: Guid(a16eae0af83edd24a9e7bdf1d02099e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Prefabs/jj_door_1_red.prefab using Guid(a16eae0af83edd24a9e7bdf1d02099e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5aa638f09e57768d4f8421e795f9fbf') in 0.059328 seconds
+  Import took 0.063840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.921862 seconds.
+  path: Assets/Packages/DigitalKonstrukt
+  artifactKey: Guid(7864918350af6c24d8593492a02740c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/DigitalKonstrukt using Guid(7864918350af6c24d8593492a02740c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4950a015df4267e6704aa7ce475b3bd') in 0.006601 seconds
+  Import took 0.009113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032584 seconds.
+  path: Assets/Packages/DigitalKonstrukt
+  artifactKey: Guid(7864918350af6c24d8593492a02740c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/DigitalKonstrukt using Guid(7864918350af6c24d8593492a02740c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4950a015df4267e6704aa7ce475b3bd') in 0.002977 seconds
+  Import took 0.005014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.581284 seconds.
+  path: Assets/Packages/TileableBricksWall
+  artifactKey: Guid(86713c033fbecf04e9c76834625a5750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/TileableBricksWall using Guid(86713c033fbecf04e9c76834625a5750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acd52bfc48662f1d23cc870e930bb7d9') in 0.009129 seconds
+  Import took 0.011993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.142339 seconds.
+  path: Assets/Packages/DigitalKonstrukt/Prototyping_Pack_Free
+  artifactKey: Guid(ba61ebdd548f2d043a459e91df1599da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/DigitalKonstrukt/Prototyping_Pack_Free using Guid(ba61ebdd548f2d043a459e91df1599da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17a29b265cc00eb39340f1b7b85fa6b6') in 0.008681 seconds
+  Import took 0.010913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.642814 seconds.
+  path: Assets/Packages/DigitalKonstrukt/Prototyping_Pack_Free/Resources
+  artifactKey: Guid(dc4bb0fafa82d884481178ef46e29fdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/DigitalKonstrukt/Prototyping_Pack_Free/Resources using Guid(dc4bb0fafa82d884481178ef46e29fdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5077937751170b01997fff214e96c039') in 0.009264 seconds
+  Import took 0.011493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.414993 seconds.
+  path: Assets/Packages/DigitalKonstrukt/Prototyping_Pack_Free/Resources/Prefabs
+  artifactKey: Guid(2db27146764ff844aa1e335ac9a938ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/DigitalKonstrukt/Prototyping_Pack_Free/Resources/Prefabs using Guid(2db27146764ff844aa1e335ac9a938ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eadbb11e8eeb04f28e93910feef87fb4') in 0.009304 seconds
+  Import took 0.012585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.720513 seconds.
+  path: Assets/Packages/DigitalKonstrukt/Prototyping_Pack_Free/Resources/Prefabs/Stairs
+  artifactKey: Guid(7f54f37687af50d4dbc7b407e07f1441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/DigitalKonstrukt/Prototyping_Pack_Free/Resources/Prefabs/Stairs using Guid(7f54f37687af50d4dbc7b407e07f1441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd60630e6163575365b013057ad4c219e') in 0.009785 seconds
+  Import took 0.012143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.085686 seconds.
+  path: Assets/Packages/DigitalKonstrukt/Prototyping_Pack_Free/Resources/Prefabs/Stairs/PTK_Stairs_Large.prefab
+  artifactKey: Guid(bcb5c50335d5ead4abea041e6e413ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/DigitalKonstrukt/Prototyping_Pack_Free/Resources/Prefabs/Stairs/PTK_Stairs_Large.prefab using Guid(bcb5c50335d5ead4abea041e6e413ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77373e0f08cc98181aca3b52ff50edd1') in 0.019260 seconds
+  Import took 0.022508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Packages/DigitalKonstrukt/Prototyping_Pack_Free/Resources/Prefabs/Stairs/PTK_Stairs_Medium.prefab
+  artifactKey: Guid(3730624d7a1898441b246db63cde09ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/DigitalKonstrukt/Prototyping_Pack_Free/Resources/Prefabs/Stairs/PTK_Stairs_Medium.prefab using Guid(3730624d7a1898441b246db63cde09ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad997e4930b29fa7fb89df7b73b314e6') in 0.033921 seconds
+  Import took 0.036156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Packages/DigitalKonstrukt/Prototyping_Pack_Free/Resources/Prefabs/Stairs/PTK_Stairs_Small.prefab
+  artifactKey: Guid(7c86d38630d69c3428eaa64a2437111f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/DigitalKonstrukt/Prototyping_Pack_Free/Resources/Prefabs/Stairs/PTK_Stairs_Small.prefab using Guid(7c86d38630d69c3428eaa64a2437111f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4f3b21d25bdd90a6c70909148cda137') in 0.020210 seconds
+  Import took 0.023520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.835637 seconds.
+  path: Assets/Packages/Wooden Floor Pack
+  artifactKey: Guid(03afca49d72da8649a306bebe95d29f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Wooden Floor Pack using Guid(03afca49d72da8649a306bebe95d29f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36666b168773f95ec9776b64272ef364') in 0.008579 seconds
+  Import took 0.010882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.156322 seconds.
+  path: Assets/Packages/Wooden Floor Pack/Materials
+  artifactKey: Guid(823577bfc22dbd8408bcd784df97cfed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Wooden Floor Pack/Materials using Guid(823577bfc22dbd8408bcd784df97cfed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6706543473828d13f8c3121f4c042878') in 0.008995 seconds
+  Import took 0.011246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.047154 seconds.
+  path: Assets/Packages/Wooden Floor Pack/Materials/Wooden Floor 3.mat
+  artifactKey: Guid(bf276f53291eddb4d9053d2ae81ca063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Wooden Floor Pack/Materials/Wooden Floor 3.mat using Guid(bf276f53291eddb4d9053d2ae81ca063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ba6c591a158dc128063fe733a93ed82') in 0.255059 seconds
+  Import took 0.260693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 137.334174 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(27acc9999b3c2974aba0e570f6643310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(27acc9999b3c2974aba0e570f6643310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '059124f95990f70b20322fdf9d92f52c') in 0.003996 seconds
+  Import took 0.007060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000799 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(27acc9999b3c2974aba0e570f6643310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(27acc9999b3c2974aba0e570f6643310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '059124f95990f70b20322fdf9d92f52c') in 0.002704 seconds
+  Import took 0.005108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 311.721537 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(ffbec09eee77e944d973582ce248800e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(ffbec09eee77e944d973582ce248800e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '836ecbeffc37109757c407e732752a77') in 0.007712 seconds
+  Import took 0.010910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.107963 seconds.
+  path: Assets/Packages
+  artifactKey: Guid(de58a0571b2cb15448fbb1b42be17678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages using Guid(de58a0571b2cb15448fbb1b42be17678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aa79303155e8e2ab69dd674e215f513') in 0.009127 seconds
+  Import took 0.011449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.948352 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1
+  artifactKey: Guid(a6f072187a930104388c6f45a535d9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1 using Guid(a6f072187a930104388c6f45a535d9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66684bc7c8e89dcd7dc892a7ed4f1805') in 0.008675 seconds
+  Import took 0.010932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.577105 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures
+  artifactKey: Guid(224fcb81016b35f449ee9f5f3bd94ad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures using Guid(224fcb81016b35f449ee9f5f3bd94ad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36537150bd08ae6a34f99652dc32a462') in 0.009060 seconds
+  Import took 0.011278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.107579 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_intDoorWhite_AT.png
+  artifactKey: Guid(63a72aa542003b0448ff3bd776b2db17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_intDoorWhite_AT.png using Guid(63a72aa542003b0448ff3bd776b2db17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf6287d4bf2f0b24207218e0ce64ede6') in 0.104806 seconds
+  Import took 0.108769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor3_white_MS.png
+  artifactKey: Guid(630f24c88d20b4c45aa62dfbb8faf982) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor3_white_MS.png using Guid(630f24c88d20b4c45aa62dfbb8faf982) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9a9626d14f0f67c5f9726caf5924e0b') in 0.024106 seconds
+  Import took 0.028317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor4_white_N.png
+  artifactKey: Guid(bee82156e4fb0c240b59de27c9e6aff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor4_white_N.png using Guid(bee82156e4fb0c240b59de27c9e6aff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6a87deffe1ab5e802ce9bd2931be12d') in 0.027716 seconds
+  Import took 0.030410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor2_white_N.png
+  artifactKey: Guid(17395c27f9fd5304da2e1b44b492a681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor2_white_N.png using Guid(17395c27f9fd5304da2e1b44b492a681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8820a8b0a1fe56cb125072e1ed4ceee') in 0.025737 seconds
+  Import took 0.027946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor4_dark_weathered_AT.png
+  artifactKey: Guid(937d4a8084b657f45bcf7deee13acbb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor4_dark_weathered_AT.png using Guid(937d4a8084b657f45bcf7deee13acbb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c235479a1d8a01a2d8fff3e4c00d7f62') in 0.023761 seconds
+  Import took 0.027117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor4_white_weathered_AT.png
+  artifactKey: Guid(73ade9de8d89d9e4bbcf19d65aacdde3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor4_white_weathered_AT.png using Guid(73ade9de8d89d9e4bbcf19d65aacdde3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6858aee083667e9f9b49d7f099fc6ca8') in 0.034511 seconds
+  Import took 0.036830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor1_white_weathered_MS.png
+  artifactKey: Guid(bdbb28740cc6736488160c5abae88fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor1_white_weathered_MS.png using Guid(bdbb28740cc6736488160c5abae88fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8afd6b003fbe24e20ca6c66e0825680') in 0.017289 seconds
+  Import took 0.019573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor3_white_weathered_N.png
+  artifactKey: Guid(22b1fb3f99727104c84abc7227835341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor3_white_weathered_N.png using Guid(22b1fb3f99727104c84abc7227835341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '023ac0b793f51852d1c17b1350312546') in 0.027151 seconds
+  Import took 0.030334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor3_white_N.png
+  artifactKey: Guid(de826d5ffb1c751469550b3cd776db7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor3_white_N.png using Guid(de826d5ffb1c751469550b3cd776db7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fc9e52712b2b61448ea89c2924afe5a') in 0.025005 seconds
+  Import took 0.027407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor4_white_MS.png
+  artifactKey: Guid(3b0ddfe7102c47541bea294c4210ea38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor4_white_MS.png using Guid(3b0ddfe7102c47541bea294c4210ea38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dada1912444f42ec75a2fcc22659dec') in 0.018511 seconds
+  Import took 0.021406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor4_white_weathered_N.png
+  artifactKey: Guid(8535403bde459c14d8fc5657b338d315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor4_white_weathered_N.png using Guid(8535403bde459c14d8fc5657b338d315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b213e9b89fc3aa58188940e5d0d2161') in 0.025959 seconds
+  Import took 0.028887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor4_red_MS.png
+  artifactKey: Guid(691c23ead314e064a8c5b3661d7b8811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor4_red_MS.png using Guid(691c23ead314e064a8c5b3661d7b8811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfc23d27a58bb6802ffe1ba86421cb37') in 0.018946 seconds
+  Import took 0.021381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor2_white_MS.png
+  artifactKey: Guid(9687e78e8cfb3734ebbddc74ba06d313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor2_white_MS.png using Guid(9687e78e8cfb3734ebbddc74ba06d313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b6639ad62842b2e634ad4e4372caf6e') in 0.017939 seconds
+  Import took 0.020132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor3_white_weathered_AT.png
+  artifactKey: Guid(084cc9ec779118f469cfd7d56ec6277d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor3_white_weathered_AT.png using Guid(084cc9ec779118f469cfd7d56ec6277d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7364edc324d92b92169c98b56124acc3') in 0.021641 seconds
+  Import took 0.023727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor4_white_AT.png
+  artifactKey: Guid(c42e01ab611739f4bb758a282e450297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor4_white_AT.png using Guid(c42e01ab611739f4bb758a282e450297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '692326175e74d6b7b6a915d47005f164') in 0.021656 seconds
+  Import took 0.024374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor1_white_weathered_AT.png
+  artifactKey: Guid(ec8d9c175fbd51641859a2a915ff3e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor1_white_weathered_AT.png using Guid(ec8d9c175fbd51641859a2a915ff3e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cce5ba7bee0e9525d1867a3b60046473') in 0.023367 seconds
+  Import took 0.026587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor1_white_weathered_N.png
+  artifactKey: Guid(f40ea022b39576e46b0486c0e2da07cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor1_white_weathered_N.png using Guid(f40ea022b39576e46b0486c0e2da07cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0db802ffbdd5c36f23429e433b1a6d0') in 0.024577 seconds
+  Import took 0.026626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor2_white_AT.png
+  artifactKey: Guid(22298e305c1075343b31564a777f0f80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor2_white_AT.png using Guid(22298e305c1075343b31564a777f0f80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8154a4b6ef04e47c2fdf3f518ebd6dee') in 0.021358 seconds
+  Import took 0.023488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor3_white_AT.png
+  artifactKey: Guid(da6ff30e8e8dccc41a0dc6a964fd78d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor3_white_AT.png using Guid(da6ff30e8e8dccc41a0dc6a964fd78d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efbf6ec00cd27c4fe99f62e05c85084e') in 0.019359 seconds
+  Import took 0.021872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor4_red_N.png
+  artifactKey: Guid(f39796180faeaeb47899872e3541afa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor4_red_N.png using Guid(f39796180faeaeb47899872e3541afa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02f3ef137ddbfcb9acb13f4e096ad51a') in 0.024863 seconds
+  Import took 0.027290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor4_red_AT.png
+  artifactKey: Guid(868029708cf6ea343932eaa5c801d975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor4_red_AT.png using Guid(868029708cf6ea343932eaa5c801d975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9cc5862151fe807dd0fe2febd3f5824') in 0.020107 seconds
+  Import took 0.022076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor1_red_weathered_N.png
+  artifactKey: Guid(455ec62d34be43b48a608247269560a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor1_red_weathered_N.png using Guid(455ec62d34be43b48a608247269560a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7957279e3e67571cf7bbcdba699f557') in 0.024220 seconds
+  Import took 0.026745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor1_red_weathered_MS.png
+  artifactKey: Guid(e9406dba92af95c40a202df1d8b07325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor1_red_weathered_MS.png using Guid(e9406dba92af95c40a202df1d8b07325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9fb3dc172b3fbe9ba36dfe31ea527ab') in 0.017542 seconds
+  Import took 0.020257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor2_white_weathered_N.png
+  artifactKey: Guid(29ce8deeead3eb54c8d58fdc89ae0432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor2_white_weathered_N.png using Guid(29ce8deeead3eb54c8d58fdc89ae0432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbde67db06a661c98fc8b6aebdbb4fdf') in 0.028355 seconds
+  Import took 0.030317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor3_white_weathered_MS.png
+  artifactKey: Guid(68c78c17848ee5b469c387e24a1d4157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor3_white_weathered_MS.png using Guid(68c78c17848ee5b469c387e24a1d4157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7a98954bbae4a5e679afd4df8356006') in 0.018511 seconds
+  Import took 0.020722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor1_red_weathered_AT.png
+  artifactKey: Guid(88768fb049227ad43a63ab6b80d3b98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor1_red_weathered_AT.png using Guid(88768fb049227ad43a63ab6b80d3b98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ff910e441154b26873404a7c0ad254b') in 0.021172 seconds
+  Import took 0.024045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor4_dark_weathered_N.png
+  artifactKey: Guid(a8660430309938045b0f007e50e31a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor4_dark_weathered_N.png using Guid(a8660430309938045b0f007e50e31a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab0aff3eaa83e0036ea2a1c1cf83c127') in 0.024881 seconds
+  Import took 0.026880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor2_white_weathered_MS.png
+  artifactKey: Guid(20b85b61c13cc724688d6f00624019da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor2_white_weathered_MS.png using Guid(20b85b61c13cc724688d6f00624019da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07c2b2e947f2d638b7a4598635c9fde0') in 0.016068 seconds
+  Import took 0.018318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor4_white_weathered_MS.png
+  artifactKey: Guid(cd0bc7a04ecddc34890037dcc33281d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor4_white_weathered_MS.png using Guid(cd0bc7a04ecddc34890037dcc33281d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9be1e1285412d896bf9246f68f323a12') in 0.017407 seconds
+  Import took 0.020499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor4_dark_weathered_MS.png
+  artifactKey: Guid(9c25bd1e81998384292a2471e467eaaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor4_dark_weathered_MS.png using Guid(9c25bd1e81998384292a2471e467eaaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cacdecc0914ed9b194b855740c027d7') in 0.016932 seconds
+  Import took 0.019532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor2_white_weathered_AT.png
+  artifactKey: Guid(11b3c8d3b19e8e841911b9688a9c681c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor2_white_weathered_AT.png using Guid(11b3c8d3b19e8e841911b9688a9c681c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db340e725ea1582554e6d12107b8f1de') in 0.020084 seconds
+  Import took 0.022904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_intDoorWhite_MS.png
+  artifactKey: Guid(979672cde837faa48a1a2f640d0f1954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_intDoorWhite_MS.png using Guid(979672cde837faa48a1a2f640d0f1954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f846f693a19577c3b23c9176eecea6d9') in 0.018091 seconds
+  Import took 0.020831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_intDoorWhite_N.png
+  artifactKey: Guid(36c6b7cccffde90489c5379d61a6a54f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_intDoorWhite_N.png using Guid(36c6b7cccffde90489c5379d61a6a54f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f722274610820a54de613ac484e5c53f') in 0.025534 seconds
+  Import took 0.028285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_intDoorWhite_MS.png
+  artifactKey: Guid(979672cde837faa48a1a2f640d0f1954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/JJ_InteriorDoorPack_V1/Textures/T_intDoorWhite_MS.png using Guid(979672cde837faa48a1a2f640d0f1954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f846f693a19577c3b23c9176eecea6d9') in 0.012228 seconds
+  Import took 0.014350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1695.241987 seconds.
+  path: Assets/Packages/TileableBricksWall/Materials
+  artifactKey: Guid(dd4f08b669d824b419ef4bad784c3824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/TileableBricksWall/Materials using Guid(dd4f08b669d824b419ef4bad784c3824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c97142b839a4e200e3a0ee0ccedf0b1f') in 0.006593 seconds
+  Import took 0.009702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.241625 seconds.
+  path: Assets/Packages/TileableBricksWall/Materials/Bricks_01_mat.mat
+  artifactKey: Guid(3abf473d50106f44c9611c2c76fd9a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/TileableBricksWall/Materials/Bricks_01_mat.mat using Guid(3abf473d50106f44c9611c2c76fd9a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74525b77a19307f0705124b3dd5c8394') in 0.035416 seconds
+  Import took 0.038327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Packages/TileableBricksWall/Materials/Bricks_01_mat2.mat
+  artifactKey: Guid(333a08b54ec5eec4f84f74d910ad751e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/TileableBricksWall/Materials/Bricks_01_mat2.mat using Guid(333a08b54ec5eec4f84f74d910ad751e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b6f4c836b817e0639fd7253b61ddf52') in 0.030235 seconds
+  Import took 0.032355 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
